@@ -1,0 +1,7 @@
+C:\Users\Pablo\source\repos\Lab_02\Cw_04\bin\Debug\Cw_04.exe.config
+C:\Users\Pablo\source\repos\Lab_02\Cw_04\bin\Debug\Cw_04.exe
+C:\Users\Pablo\source\repos\Lab_02\Cw_04\bin\Debug\Cw_04.pdb
+C:\Users\Pablo\source\repos\Lab_02\Cw_04\obj\Debug\Cw_04.csprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\Lab_02\Cw_04\obj\Debug\Cw_04.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\Lab_02\Cw_04\obj\Debug\Cw_04.exe
+C:\Users\Pablo\source\repos\Lab_02\Cw_04\obj\Debug\Cw_04.pdb

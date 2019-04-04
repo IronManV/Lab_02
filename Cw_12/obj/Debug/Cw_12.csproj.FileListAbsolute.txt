@@ -1,0 +1,6 @@
+C:\Users\Pablo\source\repos\Lab_02\Cw_12\bin\Debug\Cw_12.exe.config
+C:\Users\Pablo\source\repos\Lab_02\Cw_12\bin\Debug\Cw_12.exe
+C:\Users\Pablo\source\repos\Lab_02\Cw_12\bin\Debug\Cw_12.pdb
+C:\Users\Pablo\source\repos\Lab_02\Cw_12\obj\Debug\Cw_12.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\Lab_02\Cw_12\obj\Debug\Cw_12.exe
+C:\Users\Pablo\source\repos\Lab_02\Cw_12\obj\Debug\Cw_12.pdb
