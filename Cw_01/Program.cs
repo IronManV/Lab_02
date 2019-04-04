@@ -18,7 +18,7 @@ namespace Cw_01
                 for(int j = 0; j < array.GetLength(1); j++)
                 {
                     array[i, j] = rand.Next(10);
-                    Console.Write(array[i, j] + " ");
+                    Console.Write("{0} ", array[i, j]);
                 }
                 Console.Write("\n");
             }
@@ -31,7 +31,7 @@ namespace Cw_01
                     sum += array[i, j];
                     
                 }
-                Console.WriteLine("Suma wiersza " + i + ": " + sum);
+                Console.WriteLine("Suma wierszy {0}: {1}", i, sum);
 
             }
             Console.ReadKey();

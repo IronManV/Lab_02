@@ -8,20 +8,22 @@ namespace Cw_03
 {
     class Program
     {
-        static void change(ref int a1, ref int b1)
+        static void Change(ref int a1, ref int b1)
         {
-            int c = a1;
+            int sup = a1;
             a1 = b1;
-            b1 = c;
-            Console.WriteLine("Pierwsza zmienna: " + a1 + "\n Druga zmienna: " + b1);
+            b1 = sup;
+            
         }
         static void Main(string[] args)
         {
             int a = 5;
             int b = 13;
-            Console.WriteLine("Pierwsza zmienna: " + a + "\n Druga zmienna: " + b);
+            Console.WriteLine("Pierwsza zmienna: {0} \n Druga zmienna: {1}", a, b);
 
-            change(ref a, ref b);
+            Change(ref a, ref b);
+            Console.WriteLine("Pierwsza zmienna: {0} \n Druga zmienna: {1}", a, b);
+
             Console.ReadKey();
         }
         
